@@ -14,7 +14,7 @@ Als materiaal hiervoor gebruikte ik 4mm mdf, waardoor ik door trial en error enk
 
 
 
-# resulaat
+# resultaat lasercutting
 
 verschillende soorten 
 
