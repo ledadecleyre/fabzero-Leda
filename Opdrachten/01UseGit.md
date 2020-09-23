@@ -2,9 +2,9 @@
 
 Opdracht: Gebruik Git om verslag bij te houden van je vooruitgang.
 
-In de eerste les leerde we kennis maken met het programma Github.
+In de eerste les leerde we kennis maken met het programma Github. Via markdown elements leerden we om onze fabzero-site op te bouwen met verschillende tekstmogelijkheden zoals het _cursief_ zetten van tekst en het **vet** zetten van tekst, net zoals het toevoegen van foto's en links. 
 
-Als voorbeeld van enkele dingen die we leerden:
+# Opdracht eerste les
 
 het toevoegen van een foto:
 
