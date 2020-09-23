@@ -26,3 +26,4 @@ bovenaanzicht vaas
 
 
 ![vaas]({{ site.baseurl }}/assets/vaas.jpg)
+
