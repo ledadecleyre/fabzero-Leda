@@ -1,3 +1,3 @@
-# Les 2: Materialen en Design
+# Materialen en Design
 
 
