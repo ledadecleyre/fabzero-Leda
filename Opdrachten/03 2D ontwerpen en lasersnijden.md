@@ -19,15 +19,16 @@ Via beitels kon ik de verbindingen aanpassen om de verschillende delen van de va
 
 # resultaat lasercutting
 
-**verschillende soorten** 
+**beeld**
 
-![vaas]({{ site.baseurl }}/assets/vazen.jpg)
+![vaas]({{ site.baseurl }}/assets/vaas.jpg)
+
 
 **bovenaanzicht vaasje**
 
 ![bovenaanzicht]({{ site.baseurl }}/assets/bovenaanzicht.jpg)
 
-**beeld**
 
-![vaas]({{ site.baseurl }}/assets/vaas.jpg)
+**verschillende soorten** 
 
+![vaas]({{ site.baseurl }}/assets/vazen.jpg)
