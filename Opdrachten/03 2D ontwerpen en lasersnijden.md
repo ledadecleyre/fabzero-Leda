@@ -16,14 +16,15 @@ Als materiaal hiervoor gebruikte ik 4mm mdf, waardoor ik door trial en error enk
 
 # resultaat lasercutting
 
-verschillende soorten 
+**verschillende soorten** 
 
 ![vaas]({{ site.baseurl }}/assets/vazen.jpg)
 
-bovenaanzicht vaas
+**bovenaanzicht vaasje**
 
 ![bovenaanzicht]({{ site.baseurl }}/assets/bovenaanzicht.jpg)
 
+**beeld**
 
 ![vaas]({{ site.baseurl }}/assets/vaas.jpg)
 
