@@ -1,6 +1,6 @@
 # 2D ontwerpen en lasersnijden
 
-**opdracht object lasercutten**
+**Opdracht object lasercutten**
 
 Bezoek **BudaLab** 22 september in Kortrijk
 
