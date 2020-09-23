@@ -4,5 +4,5 @@
 
 Bezoek BudaLab in Kortrijk
 
-![BUDALAB]({{ site.baseurl }}/assets/workinprogress):
+![BUDALAB]({{ site.baseurl }}/assets/work in progress.jpg):
 
