@@ -18,17 +18,31 @@ images:
     image: https://via.placeholder.com/200/6ab0de/fff.png
 ---
 
+# Album Images
+
+voorbeeld van een foto op het internet:
+
+![foto Leda](https://i.vimeocdn.com/portrait/12042465_640x640)
+
+voorbeeld van een foto in mijn repository:
+
+![foto Leda]({{ site.baseurl }}/assets/leda.jpg)
+
+
 # Inclusion of Images via link
 
 ## Show image on the internet
 
 ![test image internet](https://ingegnomakerspace.github.io/inclusievekets/assets/images/logo.svg)
 
+
 ## Show image from THIS website
 
 Image must be located in **assets** folder and you need to use the variable {% raw %}`{{ site.baseurl }}`{% endraw %} to indicate where this website is located
 
 ![test image internet]({{ site.baseurl }}/assets/images/logo.svg)
+
+
 
 ## Turn your image in a link to a webpage
 
