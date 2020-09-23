@@ -9,7 +9,9 @@ Template voor FabZero gebaseerd [jekyll-rtd-theme](https://github.com/rundocs/je
 
 ## Who am I?
 
-???
+Ik ben Leda Decleyre, een 24-jarige studente uit Gent. 
+Deze zomer ronde ik mijn bachelor Kunstwetenschappen af aan de Universiteit Gent en schakel nu over naar een masteropleiding in Stedenbouw en Ruimtelijke Planning.
+
 
 ## The license
 The theme is available as open source under the terms of the MIT License. The content is Creatieve Commons, non-commercial.
