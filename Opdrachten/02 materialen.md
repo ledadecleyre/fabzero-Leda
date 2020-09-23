@@ -10,5 +10,5 @@ Via een oefening leerden we kennis maken met de folding-techniek om kleine proto
 
 folding prototypes
 
-![foto tafel]({{ site.baseurl }}/assets/tafel)
+![foto tafel]({{ site.baseurl }}/assets/tafel.jpg)
 
