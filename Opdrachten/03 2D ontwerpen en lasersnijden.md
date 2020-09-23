@@ -14,3 +14,15 @@ Als materiaal hiervoor gebruikte ik 4mm mdf, waardoor ik door trial en error enk
 
 
 
+# resulaat
+
+verschillende soorten 
+
+![vaas]({{ site.baseurl }}/assets/vazen.jpg)
+
+bovenaanzicht vaas
+
+![bovenaanzicht]({{ site.baseurl }}/assets/bovenaanzicht.jpg)
+
+
+![vaas]({{ site.baseurl }}/assets/vaas.jpg)
