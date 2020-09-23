@@ -1,3 +1,7 @@
+# Intro en Github leren gebruiken
+
+
+
 # Over mezelf
 
 Ik ben Leda Decleyre, een 24-jarige studente uit Gent. 
@@ -8,16 +12,11 @@ Hoewel ik een leek ben op het gebied van wiskunde en ontwerpen, heb ik een enorm
 ![foto Leda](https://i.vimeocdn.com/portrait/12042465_640x640)
 
 
-
-
-
 # Git gebruiken
 
+In de eerste les leerde we kennis maken met het programma Github. Via markdown elements leerden we om onze fabzero-site op te bouwen met verschillende tekstmogelijkheden zoals het _cursief_ zetten van tekst en het **vet** zetten van tekst, net zoals het toevoegen van foto's en links aan ons portofolio. 
 
 
-In de eerste les leerde we kennis maken met het programma Github. Via markdown elements leerden we om onze fabzero-site op te bouwen met verschillende tekstmogelijkheden zoals het _cursief_ zetten van tekst en het **vet** zetten van tekst, net zoals het toevoegen van foto's en links. 
-
-# Opdracht eerste les
 
 
 
