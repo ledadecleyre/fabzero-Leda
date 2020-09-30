@@ -10,7 +10,7 @@ Als beginner in 3D tekenen en printen werd in de les aangeraden om eerst kennis 
 
 enkele kleine experimenten op _Tinkercad_
 
-![flowmap 3D tekenen]({{ site.baseurl }}/assets/flowmap 3D tekenen.jpg)
+![flowmap]({{ site.baseurl }}/assets/flowmap.jpg)
 
 
 
