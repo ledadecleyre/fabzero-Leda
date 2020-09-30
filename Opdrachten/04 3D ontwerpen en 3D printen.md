@@ -13,6 +13,7 @@ enkele kleine experimenten op _Tinkercad_
 ![flowmap]({{ site.baseurl }}/assets/flowmap.png)
 
 
+**EXTRA**
 
 Als extra opdracht konden we experimenteren met het 3D tekenen en printen van een _pencilholder_
 Aangezien het mijn eerste ervaring was met 3D printing, koos ik voor een simpel ontwerp van een rups.
