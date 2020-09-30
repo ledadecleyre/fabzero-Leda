@@ -2,7 +2,7 @@
 
 _Opdracht object lasercutten_
 
-Bezoek **BudaLab** 22 september in Kortrijk
+**Bezoek BudaLab 22 september in Kortrijk**
 
 Voor deze opdracht gebruikte ik een template via makerdesignlab om verschillende vormen van vazen te lasercutten.
 Als materiaal hiervoor gebruikte ik 4mm triplex, waardoor ik door trial en error enkele problemen kreeg in mijn verbindingen. 
