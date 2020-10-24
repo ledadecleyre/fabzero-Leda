@@ -22,7 +22,15 @@ Eerst tekende ik een rups uit in Tinkercad en zette die tekening dan over naar F
 Ik mocht gebruik maken van de 3D-printer van Wolf, de broer van Luna die ook in dit project zit.
 Hij bezit een creality 3D ender 3- printer, die zeer praktisch was voor deze opdracht.
 
-Beelden van het proces volgen nog
+
+Eerst tekende ik een simpel ontwerp uit van een rups in Tinkercad en vervolgens exporteerde ik die via het programma Fusion 360 als een stl file om naar de 3D printer te sturen.
+
+Beelden van het proces 
+
+![flowmap]({{ site.baseurl }}/assets/caterpillar design.png)
+
+
+
 
 
 
