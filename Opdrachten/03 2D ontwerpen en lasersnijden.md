@@ -19,19 +19,8 @@ Via beitels kon ik de verbindingen aanpassen om de verschillende delen van de va
 
 # resultaat lasercutting
 
-**illusionaire vaas**
+![lasercut vaas]({{ site.baseurl }}/assets/lasercut vaas.png)
 
-![vaas]({{ site.baseurl }}/assets/vaas.jpg)
-
-
-**bovenaanzicht vaasje**
-
-![bovenaanzicht]({{ site.baseurl }}/assets/bovenaanzicht.jpg)
-
-
-**verschillende maten** 
-
-![vaas]({{ site.baseurl }}/assets/vazen.jpg)
 
 
 # PROJECT
