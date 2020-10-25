@@ -36,6 +36,6 @@ Via beitels kon ik de verbindingen aanpassen om de verschillende delen van de va
 
 # PROJECT
 
-![lasercutting]({{ site.baseurl }}/assets/clasercutting.png)
+![lasercutting]({{ site.baseurl }}/assets/lasercutting.png)
 
 ![handbag]({{ site.baseurl }}/assets/handbag.svg)
