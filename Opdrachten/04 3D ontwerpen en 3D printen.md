@@ -1,5 +1,7 @@
 # 3D tekenen en printing
 
+_lesgever Lennard Ameys_
+
 In deze les lag de focus op 3D printing als concept en haar uitwerking(en) in verschillende vormen.
 Naast het overlopen van verschillende 3D-teken- en printprocessen, zagen we ook vele voorbeelden en verschillende toepassingen van 3D geprinte tekeningen en objecten van kunstzinnige projecten tot het uitwerken van.
 
