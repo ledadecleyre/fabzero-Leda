@@ -15,7 +15,7 @@ enkele kleine experimenten op _Tinkercad_
 ![flowmap]({{ site.baseurl }}/assets/flowmap.png)
 
 
-# EXTRA
+# Extra
 
 Als extra opdracht konden we experimenteren met het 3D tekenen en printen van een _pencilholder_.
 Aangezien het mijn eerste ervaring was met 3D printing, koos ik voor een simpel ontwerp van een rups.
@@ -31,7 +31,7 @@ Eerst tekende ik een simpel ontwerp uit van een rups in Tinkercad en vervolgens 
 ![flowmap]({{ site.baseurl }}/assets/caterpillar design.png)
 
 
-# Resultaat
+# Resultaten
 
 ![flowmap]({{ site.baseurl }}/assets/caterpillar 3D.jpg)
 
