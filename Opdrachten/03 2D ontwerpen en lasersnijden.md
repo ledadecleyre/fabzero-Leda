@@ -23,7 +23,7 @@ Via beitels kon ik de verbindingen aanpassen om de verschillende delen van de va
 
 
 
-# PROJECT
+# PROJECT 
 
 ![lasercutting]({{ site.baseurl }}/assets/lasercutting.png)
 
