@@ -38,6 +38,8 @@ Eerst tekende ik een simpel ontwerp uit van een rups in Tinkercad en vervolgens 
 
 
 
+![flowmap]({{ site.baseurl }}/assets/snapshots.png)
+
 
 
 
