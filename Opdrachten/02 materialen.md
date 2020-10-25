@@ -7,7 +7,7 @@ In deze les werd een uitgebreid overzicht overlopen van verschillende materialen
 Via een oefening leerden we kennis maken met de folding-techniek om kleine prototypes mee te ontwikkelen.
 
 
-**FOLDING PRINCIPLES**
+**folding principles**
 
 folding prototypes
 
