@@ -2,7 +2,7 @@
 
 
 
-**over mezelf**
+_over mezelf_
 
 Ik ben Leda Decleyre, een 24-jarige studente uit Gent. 
 Deze zomer ronde ik mijn bachelor _Kunstwetenschappen_ af aan de Universiteit Gent en momenteel start ik aan een masteropleiding _Stedenbouw en Ruimtelijke Planning._ 
