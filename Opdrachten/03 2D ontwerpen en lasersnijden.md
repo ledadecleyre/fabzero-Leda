@@ -32,3 +32,7 @@ Via beitels kon ik de verbindingen aanpassen om de verschillende delen van de va
 **verschillende maten** 
 
 ![vaas]({{ site.baseurl }}/assets/vazen.jpg)
+
+
+# PROJECT
+
