@@ -31,7 +31,7 @@ Eerst tekende ik een simpel ontwerp uit van een rups in Tinkercad en vervolgens 
 
 **resultaat**
 
-![flowmap]({{ site.baseurl }}/assets/caterpillar 3D.png)
+![flowmap]({{ site.baseurl }}/assets/caterpillar 3D.jpg)
 
 
 
