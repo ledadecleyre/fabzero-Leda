@@ -28,3 +28,10 @@ Via beitels kon ik de verbindingen aanpassen om de verschillende delen van de va
 ![lasercutting]({{ site.baseurl }}/assets/lasercutting.png)
 
 ![handbag]({{ site.baseurl }}/assets/handbag.svg)
+
+![prototype tas]({{ site.baseurl }}/assets/prototype tas.jpeg)
+
+
+# RESULTATEN
+
+![tas]({{ site.baseurl }}/assets/tas.jpeg)
