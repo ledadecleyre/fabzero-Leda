@@ -11,7 +11,7 @@ In plaats van een ‘picknick basket’ als koffertje waarin het bestek en de bo
 
 **snapshots**
 
-![snapshots eindproject]({{ site.baseurl }}/assets/snapshots eindproject.jpeg)
+![snapshots eindproject]({{ site.baseurl }}/assets/snapshots eindproject.png)
 
 
 **proces**
