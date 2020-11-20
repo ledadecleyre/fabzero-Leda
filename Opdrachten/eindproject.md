@@ -12,7 +12,24 @@ In plaats van een ‘picknick basket’ als koffertje waarin het bestek en de bo
 
 **proces**
 
-prototyping
+prototyping met verschillende materialen en vormen
+
+![prototype]({{ site.baseurl }}/assets/prototype.jpeg)
+
+
+![bestek]({{ site.baseurl }}/assets/bestek.jpeg)
+
+![inprints]({{ site.baseurl }}/assets/inprints.jpeg)
+
+![inprint]({{ site.baseurl }}/assets/inprint.jpeg)
+
+
+prototype in verschillende lagen karton op ware grootte 
+
+In dit prototype zal ik de vormen en uitdijingen van mijn bestek en bord in lagen lasercutten.
+Deze worden daarna aan elkaar gelijmd en vormen dan een koffertje.
+
+
 
 
 
